@@ -1,7 +1,7 @@
 # Sketchify – A Quick, Draw! drawing classifier
 The project focuses on classifying digital drawings or doodles by identifying the object or category they represent.
 
-*This is a course project for CSE 802 Pattern Recognition and Analysis at MSU. It is still ongoing so the code will be shared once the project is complete. (which will be very very soon. I don't like uploading incomplete things).
+*This is a course project for CSE 802 Pattern Recognition and Analysis at MSU. It is still ongoing so the code will be shared once the project is complete. (which will be very very soon. I don't like uploading incomplete things)
 
 ## Dataset:
 The [Quick Draw Dataset](https://quickdraw.withgoogle.com/data) is a collection of 50 million drawings across 345 categories, contributed by players of the game [Quick, Draw!](https://quickdraw.withgoogle.com/). It has been compiled by Google Creative Lab to help developers train new neural networks, help researchers see patterns in how people around the world draw, and help artists create things we haven’t begun to think of.
